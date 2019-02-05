@@ -11,5 +11,14 @@
   "dependencies": {
     "google-contacts": "^0.1.5",
     "google-contacts-crud": "^1.0.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirtandudhatra/googlecontacts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kirtandudhatra/googlecontacts/issues"
+  },
+  "homepage": "https://github.com/kirtandudhatra/googlecontacts#readme"
 }
